@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "eid": 1,
+      "ename": "sam",
+      "age": 25,
+      "dept": "Dev"
+    },
+    {
+      "eid": 2,
+      "ename": "Ram",
+      "age": 30,
+      "dept": "Sys"
+    },
+    {
+      "eid": 3,
+      "ename": "Raju",
+      "age": 27,
+      "dept": "Sales"
+    }
+  ]
+}
